@@ -1,1 +1,1 @@
-{{foo}}
+The token is: {{token}}

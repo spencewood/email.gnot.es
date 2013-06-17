@@ -9,4 +9,4 @@ module.exports =
 
     postmark:
         api_key: process.env.POSTMARK_API_KEY
-        from_address: process.env.POSTMARK_FROM_ADDRESS
+        from_email: process.env.POSTMARK_FROM_ADDRESS
